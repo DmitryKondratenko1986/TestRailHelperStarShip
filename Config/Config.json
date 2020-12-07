@@ -1,0 +1,11 @@
+{
+  "test_rail": {
+    "api_basic_url": "https://vtechnologies.testrail.net/index.php?/api/v2",
+    "credentials": {
+      "login": "n.chernyak@a1qa.com",
+      "password": "a1qa1"
+    },
+    "test_Run_id" :  2713,
+    "test_result" : "Failed"
+  }
+}
